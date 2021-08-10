@@ -1,3 +1,3 @@
-import './app.js'
-import './domain.js'
-import './game.js'
+import './js/app.js'
+import './js/domain.js'
+import './js/game.js'
